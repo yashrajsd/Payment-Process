@@ -1,3 +1,4 @@
+
 .body{
   margin: 0px;
   text-align: center;
@@ -73,7 +74,7 @@ clip-path: ellipse(85% 100% at 50% 0%);
   text-decoration: none;
 }
 .h3:hover {
-  color: #6EDCD9;
+  color: #B1BCE6;
 }
 
 .h4{
@@ -101,10 +102,10 @@ clip-path: ellipse(85% 100% at 50% 0%);
     cursor: pointer
 }
 
-.button:hover {background-color: #6EDCD9}
+.button:hover {background-color: #B1BCE6}
 
 .button:active {
-  background-color: #6EDCD9;
+  background-color: #B1BCE6;
   transform: translateY(4px);
 }
 
@@ -139,4 +140,5 @@ clip-path: ellipse(85% 100% at 50% 0%);
   font-family: 'Roboto', sans-serif;
   color: #73777B;
 }
+
 
